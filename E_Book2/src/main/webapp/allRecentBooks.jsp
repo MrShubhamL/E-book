@@ -140,6 +140,7 @@ if(invalid2 != null){
 
 <div class="container" >
 	<h3 class="text-center my-2 border-bottom text-light">RECENT NEW BOOKS</h3>
+	<h3 class="text-center my-2 border-bottom text-light">RECENT NEW BOOKS</h3>
 			<div class="row">
 					<%
 							RecentBookDAO dao = new RecentBookDAO(DBConnection.getConnection());
